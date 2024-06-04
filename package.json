@@ -1,22 +1,17 @@
 {
-  "name": "isignature",
-  "version": "1.0.3",
+  "name": "file-isignature",
+  "version": "1.0.0",
   "description": "File extractor to get real extension of file given by checking through the file's signature",
   "main": "index.js",
   "types": "index.d.ts",
-  "homepage": "https://github.com/irwansyafani/isignature",
+  "homepage": "https://github.com/gaoyia/isignature",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "npm",
-    "url": "https://github.com/irwansyafani/isignature"
+    "url": "https://github.com/gaoyia/isignature"
   },
-  "author": {
-    "name": "irwansyafani",
-    "url": "https://irwansyafani.com"
-  },
-  "license": "ISC",
+  "license": "MIT",
   "keywords": [
     "file signature",
     "file signatures",
