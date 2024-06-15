@@ -1750,17 +1750,8 @@
     "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
   },
   {
-    "signature": "66 74 79 70 69 73 6F 6D",
-    "length": 8,
-    "offset": 0,
-    "extension": ["mp4"],
-    "description": "ISO Base Media file (MPEG-4)",
-    "verfified": true,
-    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
-  },
-  {
-    "signature": "66 74 79 70 71 74",
-    "length": 6,
+    "signature": "?? ?? ?? ?? 66 74 79 70 71 74",
+    "length": 10,
     "offset": 0,
     "extension": ["mov","mp4"],
     "description": "Apple QuickTime (.MOV/QT)",
@@ -1768,8 +1759,8 @@
     "source": "https://www.ftyps.com/"
   },
   {
-    "signature": "66 74 79 70 61 76 63 31",
-    "length": 8,
+    "signature": "?? ?? ?? ?? 66 74 79 70 61 76 63 31",
+    "length": 12,
     "offset": 0,
     "extension": ["mp4"],
     "description": "MP4 Base with AVC extension [ISO 14496-12:2005]",
@@ -1777,8 +1768,8 @@
     "source": "https://www.ftyps.com/"
   },
   {
-    "signature": "66 74 79 70 46 34 56",
-    "length": 4,
+    "signature": "?? ?? ?? ?? 66 74 79 70 46 34 56",
+    "length": 11,
     "offset": 0,
     "extension": ["mp4"],
     "description": "Video for Adobe Flash Player 9+ (.F4V)",
@@ -1786,8 +1777,8 @@
     "source": "https://www.ftyps.com/"
   },
   {
-    "signature": "66 74 79 70 46 34 50",
-    "length": 4,
+    "signature": "?? ?? ?? ?? 66 74 79 70 46 34 50",
+    "length": 11,
     "offset": 0,
     "extension": ["mp4"],
     "description": "Protected Video for Adobe Flash Player 9+ (.F4P)",
@@ -1795,8 +1786,8 @@
     "source": "https://www.ftyps.com/"
   },
   {
-    "signature": "66 74 79 70 46 34 41",
-    "length": 4,
+    "signature": "?? ?? ?? ?? 66 74 79 70 46 34 41",
+    "length": 11,
     "offset": 0,
     "extension": ["mp4"],
     "description": "Audio for Adobe Flash Player 9+ (.F4A)",
@@ -1804,8 +1795,8 @@
     "source": "https://www.ftyps.com/"
   },
   {
-    "signature": "66 74 79 70 46 34 42",
-    "length": 4,
+    "signature": "?? ?? ?? ?? 66 74 79 70 46 34 42",
+    "length": 11,
     "offset": 0,
     "extension": ["mp4"],
     "description": "Audio Book for Adobe Flash Player 9+ (.F4B)",
@@ -1813,8 +1804,8 @@
     "source": "https://www.ftyps.com/"
   },
   {
-    "signature": "66 74 79 70 69 73 6F 32",
-    "length": 8,
+    "signature": "?? ?? ?? ?? 66 74 79 70 69 73 6F 32",
+    "length": 12,
     "offset": 0,
     "extension": ["mp4"],
     "description": "MP4 Base Media v2 [ISO 14496-12:2005]",
@@ -1822,8 +1813,8 @@
     "source": "https://www.ftyps.com/"
   },
   {
-    "signature": "66 74 79 70 69 73 6F 6D",
-    "length": 8,
+    "signature": "?? ?? ?? ?? 66 74 79 70 69 73 6F 6D",
+    "length": 12,
     "offset": 0,
     "extension": ["mp4"],
     "description": "MP4 Base Media v1 [ISO 14496-12:2003]",
@@ -1831,8 +1822,8 @@
     "source": "https://www.ftyps.com/"
   },
   {
-    "signature": "66 74 79 70 4D 34 41",
-    "length": 4,
+    "signature": "?? ?? ?? ?? 66 74 79 70 4D 34 41",
+    "length": 11,
     "offset": 0,
     "extension": ["m4a"],
     "description": "Apple iTunes AAC-LC (.M4A) Audio",
@@ -1840,8 +1831,8 @@
     "source": "https://www.ftyps.com/"
   },
   {
-    "signature": "66 74 79 70 4D 34 42",
-    "length": 4,
+    "signature": "?? ?? ?? ?? 66 74 79 70 4D 34 42",
+    "length": 11,
     "offset": 0,
     "extension": ["m4b"],
     "description": "Apple iTunes AAC-LC (.M4B) Audio Book",
@@ -1849,8 +1840,8 @@
     "source": "https://www.ftyps.com/"
   },
   {
-    "signature": "66 74 79 70 4D 34 50",
-    "length": 4,
+    "signature": "?? ?? ?? ?? 66 74 79 70 4D 34 50",
+    "length": 11,
     "offset": 0,
     "extension": ["m4p"],
     "description": "Apple iTunes AAC-LC (.M4P) AES Protected Audio",
@@ -1858,8 +1849,8 @@
     "source": "https://www.ftyps.com/"
   },
   {
-    "signature": "66 74 79 70 4D 34 56",
-    "length": 4,
+    "signature": "?? ?? ?? ?? 66 74 79 70 4D 34 56",
+    "length": 11,
     "offset": 0,
     "extension": ["m4v"],
     "description": "Apple iTunes Video (.M4V) Video",
